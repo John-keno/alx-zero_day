@@ -1,1 +1,1 @@
-git basic commands
+git commands
